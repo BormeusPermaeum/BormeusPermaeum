@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BormeusPermaeum
+- 👋 Hi, I’m @DanjalSkaalum
 - 👀 I’m interested in Table-Top RPGs and Video Games, as well as Virtual Reality.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on ...
