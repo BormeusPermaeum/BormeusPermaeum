@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DanjalSkaalum
 - 👀 I’m interested in Table-Top RPGs and Video Games, as well as Virtual Reality.
 - 🌱 I’m currently learning JavaScript, C# and SQL.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... C# programs.
 - 📫 How to reach me ...
 
 <!---
